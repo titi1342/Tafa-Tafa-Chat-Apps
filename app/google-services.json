@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211388125894",
+    "project_id": "titichat-4b934",
+    "storage_bucket": "titichat-4b934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211388125894:android:50877b3031f8117e12bdc7",
+        "android_client_info": {
+          "package_name": "com.ispmimtic.minicrypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211388125894-mpnslqg7n8os4a35vvpikbf2tiapc2tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUOw22xBWHZr0W9TWl3xl9WBhuyKr8aPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211388125894-mpnslqg7n8os4a35vvpikbf2tiapc2tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
